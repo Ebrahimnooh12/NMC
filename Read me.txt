@@ -1,0 +1,25 @@
+---- NMC WebSite ----
+
+Install :
+
+1.Import Sql data in phpMyAdmin file name "SQL.sql".
+2. Add folder NMC To xammpp/htdocs.
+3. enjoy :)
+
+Users Details:
+
+admin :
+username: admin
+password: Aa123456
+
+staff:
+username: ebrahim12
+password: Aa123456
+
+customer:
+username: ebrahim@mail.com
+password: Aa123456
+
+
+********* Note **********
+password is store in database as MD5.
